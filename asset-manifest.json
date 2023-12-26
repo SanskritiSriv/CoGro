@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hackCBS6/static/css/main.c830b931.css",
-    "main.js": "/hackCBS6/static/js/main.20b2145b.js",
+    "main.js": "/hackCBS6/static/js/main.947be98b.js",
     "static/media/home-banner.png": "/hackCBS6/static/media/home-banner.0beea4262545b4afbf9c.png",
     "static/media/insta-user.jpg": "/hackCBS6/static/media/insta-user.83a2bac44137d36fc97e.jpg",
     "static/media/regi-bg.jpg": "/hackCBS6/static/media/regi-bg.06c2a9c8be1f9361d79e.jpg",
     "static/media/logo.svg": "/hackCBS6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hackCBS6/index.html",
     "main.c830b931.css.map": "/hackCBS6/static/css/main.c830b931.css.map",
-    "main.20b2145b.js.map": "/hackCBS6/static/js/main.20b2145b.js.map"
+    "main.947be98b.js.map": "/hackCBS6/static/js/main.947be98b.js.map"
   },
   "entrypoints": [
     "static/css/main.c830b931.css",
-    "static/js/main.20b2145b.js"
+    "static/js/main.947be98b.js"
   ]
 }
