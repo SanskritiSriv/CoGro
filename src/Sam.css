@@ -1,0 +1,68 @@
+.about, .home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+    padding-top: 30px;
+    justify-content: space-between;
+}
+
+.cogro, .heading-home{
+    font-size: 4rem;
+    color: #ff6c22;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+.heading-home{
+    font-size: 2.3rem;
+}
+.cogro:hover{
+    letter-spacing: 6px;
+}
+
+.headings
+{
+    color: #ff6c22;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.textt, .text-home
+{
+    color: aliceblue;
+    font-family: "Poppins";
+    font-weight: 400;
+}
+
+.heading-c{
+    padding: 20px;
+    color: #ff6c22;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 4rem;
+}
+
+.phone-c{
+    padding: 20px;
+    color: #ff915a;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.mail-c{
+    padding: 20px;
+    color: #ff915a;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.contact
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
