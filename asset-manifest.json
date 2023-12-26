@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/samriddhvermasrm.github.io/hackCBS6/static/css/main.bad57823.css",
+    "main.js": "/samriddhvermasrm.github.io/hackCBS6/static/js/main.14f26298.js",
+    "static/media/home-banner.png": "/samriddhvermasrm.github.io/hackCBS6/static/media/home-banner.0beea4262545b4afbf9c.png",
+    "static/media/insta-user.jpg": "/samriddhvermasrm.github.io/hackCBS6/static/media/insta-user.83a2bac44137d36fc97e.jpg",
+    "static/media/regi-bg.jpg": "/samriddhvermasrm.github.io/hackCBS6/static/media/regi-bg.06c2a9c8be1f9361d79e.jpg",
+    "static/media/logo.svg": "/samriddhvermasrm.github.io/hackCBS6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/samriddhvermasrm.github.io/hackCBS6/index.html",
+    "main.bad57823.css.map": "/samriddhvermasrm.github.io/hackCBS6/static/css/main.bad57823.css.map",
+    "main.14f26298.js.map": "/samriddhvermasrm.github.io/hackCBS6/static/js/main.14f26298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad57823.css",
+    "static/js/main.14f26298.js"
+  ]
+}
