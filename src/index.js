@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { StrictMode } from 'react';
 import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
 import { Route, Link, BrowserRouter as Router, Routes } from "react-router-dom"
@@ -14,6 +14,7 @@ import Contact from './Contact';
 import Search from './Search';
 
 const routing = (
+  <StrictMode>
   <Router>
     <Routes>
       <Route path="/" Component={Home} />
@@ -25,5 +26,6 @@ const routing = (
       <Route path="/search" Component={Search} />
     </Routes>
   </Router>
+  </StrictMode>
 )
 ReactDOM.render(routing, document.getElementById('root'))
