@@ -21,8 +21,8 @@ https://drive.google.com/file/d/1ijg7HoiSP8Q_XPbFRUFnMkRAn7Zb-yHl/view?usp=shari
 
 
 ### Team Member Details:
-1. Ayush Awasthi(Lead)
-2. Sanskriti Srivastava
+1. Sanskriti Srivastava 
+2. Ayush Awasthi(Lead)
 3. Samriddh Pratap Verma
 4. Divyansh Katiyar 
 
